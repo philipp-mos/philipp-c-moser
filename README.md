@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Code-C%23-353353?style=for-the-badge&logo=.net&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-353353?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Tools-MSSQL-353353?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![](https://img.shields.io/badge/Cloud-Azure-353353?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Cloud-MS_Azure-353353?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-Azure_DevOps-353353?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 
