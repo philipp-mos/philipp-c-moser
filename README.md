@@ -1,7 +1,5 @@
 ### Hi, I'm Philipp 👋
-
 --------
-<br />
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-353353?style=for-the-badge&logo=apple&logoColor=white)
