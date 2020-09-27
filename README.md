@@ -1,6 +1,7 @@
 ### Hi, I'm Philipp 👋
 
 --------
+<br /><br />
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-353353?style=for-the-badge&logo=apple&logoColor=white)
@@ -29,12 +30,11 @@ Get an impression: [https://www.brandci.cloud](https://www.brandci.cloud)
 ## 🌱 Things that I'm currently learning
 - Machine Learning based projects in Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+<br />
+
+
+
+
+![Philipp's github stats](https://github-readme-stats.vercel.app/api?username=philipp-c-moser&show_icons=true&hide_border=true&title_color=6c6ce5&icon_color=6c6ce5)
