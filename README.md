@@ -21,6 +21,11 @@ BrandCi offers the opportunity to create, document and improve a comprehensive c
 Get an impression: [https://www.brandci.cloud](https://www.brandci.cloud)
 
 
+## ⚡ Things that I do in my free time
+- Learning about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
+- Taking pictures outside while hiking 🥾 📷 ⛰️
+
+
 ## 🌱 Things that I'm currently learning
 - Machine Learning based projects in Python
 
