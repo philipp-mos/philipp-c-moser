@@ -11,6 +11,9 @@
 ![](https://img.shields.io/badge/Tools-MSSQL-353353?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-Azure-353353?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-Azure_DevOps-353353?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+
+![Philipp's github stats](https://github-readme-stats.vercel.app/api?username=philipp-c-moser&show_icons=true&hide_border=true)
 <!--
 
 
