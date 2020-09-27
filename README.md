@@ -1,9 +1,18 @@
 ### Hi there 👋
 
-<!--
-**philipp-c-moser/philipp-c-moser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-macOS-353353?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/OS-Windows-353353?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/IDE-Visual_Studio-353353?style=for-the-badge&logo=visual-studio&logoColor=white)
+![](https://img.shields.io/badge/IDE-Visual_Studio_Code-353353?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Code-C%23-353353?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Code-Python-353353?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Tools-MSSQL-353353?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/Cloud-Azure-353353?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/Cloud-Azure_DevOps-353353?style=for-the-badge&logo=azure-devops&logoColor=white)
+<!--
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
