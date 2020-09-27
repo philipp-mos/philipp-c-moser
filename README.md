@@ -21,6 +21,8 @@ BrandCi offers the opportunity to create, document and improve a comprehensive c
 Get an impression: [https://www.brandci.cloud](https://www.brandci.cloud)
 
 
+## 🌱 Things that I'm currently learning
+- Machine Learning based projects in Python
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
