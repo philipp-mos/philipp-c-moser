@@ -21,7 +21,7 @@ Get an impression: [https://www.brandci.cloud](https://www.brandci.cloud)
 
 
 ## ⚡ Things that I do in my free time
-- Learning about Space, Cosmos and Astronomy is my night job. 🌌 ☄️ 🔭
+- Learning about Space, Cosmos and Astronomy is my night job 🌌 ☄️ 🔭
 - Taking pictures outside while hiking 🥾 📷 ⛰️
 
 
