@@ -27,8 +27,3 @@ Get an impression: [https://www.brandci.cloud](https://www.brandci.cloud)
 
 ## 🌱 Things that I'm currently learning
 - Machine Learning based projects in Python
-
-<br />
-<br />
-
-![Philipp's github stats](https://github-readme-stats.vercel.app/api?username=philipp-c-moser&show_icons=true&title_color=6c6ce5&icon_color=6c6ce5)
