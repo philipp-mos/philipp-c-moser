@@ -14,6 +14,9 @@
 ![](https://img.shields.io/badge/Cloud-MS_Azure-353353?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/DevOps-Azure_DevOps-353353?style=for-the-badge&logo=azure-devops&logoColor=white)
 
+## 📈 Github Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=philipp-c-moser&layout=compact&hide=javascript,jupyter%20notebook,css,html&langs_count=10&theme=dark)
+
 ## 🔭 My current project
 ### **BrandCi** - Creation - Management - Improvement
 BrandCi offers the opportunity to create, document and improve a comprehensive company brand in a continuous process.
