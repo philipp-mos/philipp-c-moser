@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/IDE-Visual_Studio-353353?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/IDE-Visual_Studio_Code-353353?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Code-C%23-353353?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![](https://img.shields.io/badge/Code-Python-353353?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Web_Framework-ASP.NET_MVC-353353?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Frontend-Angular-353353?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Mobile-Xamarin-353353?style=for-the-badge&logo=xamarin&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Tools-MSSQL-353353?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
